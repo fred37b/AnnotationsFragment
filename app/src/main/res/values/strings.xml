@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnnotationsFragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="hello_main_fragment">Hello main fragment</string>
+    <string name="hello_param_fragment">Hello param fragment</string>
+</resources>
